@@ -1,0 +1,26 @@
+{
+  "name": "ws-cli",
+  "version": "1.0.0",
+  "description": "a websocket client",
+  "module": "src/index.tsx",
+  "type": "module",
+  "author": "Chris Hay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishayuk/ws-cli.git"
+  },
+  "keywords": [
+    "timebot"
+  ],
+  "bugs": {
+    "url": "https://github.com/chrishayuk/ws-cli/issues"
+  },
+  "homepage": "https://github.com/chrishay/ws-cli#readme",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
